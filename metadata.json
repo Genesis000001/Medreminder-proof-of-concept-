@@ -1,0 +1,6 @@
+{
+  "name": "MedReminder",
+  "description": "Offline-first medication reminder, adherence tracking, refill alerts, and caregiver monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
